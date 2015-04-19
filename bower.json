@@ -1,0 +1,18 @@
+{
+  "name": "komersil",
+  "version": "0.0.0",
+  "authors": [
+    "Mulia Arifandi Nasution <mul14.net@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "~5.5.1"
+  }
+}
